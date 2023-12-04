@@ -86,4 +86,5 @@ Instalação do git
   
 * Para puxar **todas as alterações realizadas do repositório remoto (Github) para o seu repositório local**, digite `git pull`
 
+* Testando na pratica o git pull
 
