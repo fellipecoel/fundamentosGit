@@ -57,7 +57,7 @@ Instalação do git
 
 * No Github, as branches aparecerão assim:
   
-  <img src ="imgBranch.PNG">
+  <img src ="./img/imgBranch.PNG">
 
   * Se necessário retornar para branch `main`  pelo terminal do Git, digite `git checkout main`
 
@@ -75,7 +75,7 @@ Instalação do git
 
  * Para fazer o download de um repositório remoto, seu ou outro usuário, há duas opções:
  * 1ª opção: clicar no botão `Code` que se encontra no próprio Github, conforme a imagem abaixo
-  <img src="./img/imgClone.PNG
+  <img src="./img/imgClone.PNG">
 
   * 2ª opção: utilizado o mesmo link presente na imagem acima, abra o terminar e digite `git clone <link copiado do repositório remoto>`
   **Observação**: é importante que ao clonar um repositório de sua própria conta no Github, verifique qual branch no Github está como `default`, pois o **projeto clonado será aquele que se encontra no branch `default`**
